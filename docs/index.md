@@ -48,7 +48,7 @@ The above steps are just showed a list as an example. Pickling and unpickling ca
 ### Error handling 
 When Python runs into an error, it stops the current program as well as raises an exception which is an error message. Most common way to trap exceptions is to use the try statement with a except clause. In order to show the approach, the users’ input part was changed to two functions from two variable. The first one is nameInput. When you want to save a contact list, name means a series of characters. However, some people may insert numbers, then try and except approach can be used. When name is a number, the exception raise and remind the users to insert characters rather than numbers (Figure 8). 
 
-![Figure 8]() 
+![Figure 8](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/8.png) 
 #### Figure 8:  Showing the try statement with an except Clause  
 
 Try statement can also catch some specific errors. For example, in this python script, the phone number has to be integer. If the users’ put the string or float number, a ValueError will be stop the codes. If there’s other type of errors, the general Exception will catch them. Meanwhile, if the phone numbers are not 10 integers, an error also raise (Figure 9).  This script only shows some simple type of specific error. There are more types in the following website, and the explaining of basic understanding terminologies is very helpful.
