@@ -14,8 +14,16 @@ Open file via PyCharm. Click create new project, name it as Assignment07, and sa
 This is the main and most important part of the whole process. The first step is to figure out what is the objectives of the script then edit the codes. This part shows the steps of updating the script header, pickling and unpickling codes, error handling codes, and demonstration of the results.
 ### Update the changelog in the header
 A header is very important for both the creators and other users. It provides some basic information about this script. For example, the title, simple description, the creator, and the created date. If some codes will be updated, then the changes notification could be added each time to the header (Figure 2).
-
-![Figure 2](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/2.png "Figure 2") 
+'''
+# ---------------------------------------------------------------------#
+# Title: Assignment07
+# Description: A simple example of pickling and error handling
+# ChangeLog:(who,when,what)
+# Zhihua Shang, 5/28/2020, Created Script
+# Zhihua Shang, 5/29/2020, update pickling and error handling codes
+# Zhihua Shang, 6/1/2020, update pickling and error handling codes
+# ---------------------------------------------------------------------#
+'''
 #### Figure 2:  Showing the updated changelog of file.
 ### Pickling and unpickling codes
 Pickling and Unpickling is very practical in real world because it allows people to transfer data easily. In this simple example, several steps are taken to finish the whole process. The first step is to import pickle and declare some variables which includes a file and a list (Figure 3).
