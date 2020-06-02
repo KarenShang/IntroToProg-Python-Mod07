@@ -41,7 +41,7 @@ After the data are saved, a read function is to be made. This step is to unpickl
 
 The last step of this part is to recall the functions that defined earlier at the main body area (Figure 7).
 
-![Figure 7]()
+![Figure 7](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/7.png)
 #### Figure 7: Showing the codes of recalling functions at main body.
 
 The above steps are just showed a list as an example. Pickling and unpickling can also deal with dictionaries. If you are interested in it, more examples from this website https://www.tutorialspoint.com/python-pickling. This tutorial not only shows the examples both list and dictionary but also explained the cons and prons of pickle files. This is very helpful for python beginnings to have a better understanding of pickle module.  
