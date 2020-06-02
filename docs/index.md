@@ -30,7 +30,7 @@ The second step is to get users’ input and store the data in a list (Figure 4)
 
 The third step is to save the data to a file. In order to make the codes more professional. It is better to define a saveData function. Inside the scope, an open() function is used in this situation, and an append mode which is “ab” can also be used. It means to append and read from a binary file. If the file exists, new data is appended to it. If the file does not exist, it is created. Meanwhile, pickle.dump() function is to save the list of data to a file (Figure 5). 
 
-![Figure 5]()
+![Figure 5](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/5.png)
 #### Figure 5: Showing the code of saveData function.
 
 
