@@ -36,7 +36,7 @@ The third step is to save the data to a file. In order to make the codes more pr
 
 After the data are saved, a read function is to be made. This step is to unpickle data from a pickled file. Open the file and an access mode of “rb” is used for reading the binary file, then pickle.load() is used to load the binary file to a variable. In order to read all data, a while loop is used unless it run out (Figure 6).  
 
-![Figure 6]() 
+![Figure 6](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/6.png) 
 #### Figure 6: Showing the codes of readData function. 
 
 The last step of this part is to recall the functions that defined earlier at the main body area (Figure 7).
