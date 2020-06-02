@@ -66,7 +66,7 @@ This is the result that showing in PyCharm (Figure 10).
 ### Demonstrate in Command Window
 Beside working in PyCharm, the python file can also work in a command window. The first step is to go to start, search and click CMD. The Command Prompt window shows up. Typing ‘python’ and pasting the path of the BasicMath.py file, then the information shows up (Figure 11).
 
-![Figure 11]() 
+![Figure 11](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/11.png) 
 #### Figure 11: script running from command.
 ### Demonstrate in Shell window
 
