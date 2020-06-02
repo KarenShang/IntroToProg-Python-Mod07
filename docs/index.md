@@ -53,7 +53,7 @@ When Python runs into an error, it stops the current program as well as raises a
 
 Try statement can also catch some specific errors. For example, in this python script, the phone number has to be integer. If the users’ put the string or float number, a ValueError will be stop the codes. If there’s other type of errors, the general Exception will catch them. Meanwhile, if the phone numbers are not 10 integers, an error also raise (Figure 9).  This script only shows some simple type of specific error. There are more types in the following website, and the explaining of basic understanding terminologies is very helpful.
 (https://www.datacamp.com/community/tutorials/exception-handling-python).
-![Figure 9]()
+![Figure 9](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/9.png)
 #### Figure 9:  Showing the try statement with a specific except Clause  
 
 
