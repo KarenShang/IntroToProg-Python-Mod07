@@ -15,7 +15,7 @@ This is the main and most important part of the whole process. The first step is
 ### Update the changelog in the header
 A header is very important for both the creators and other users. It provides some basic information about this script. For example, the title, simple description, the creator, and the created date. If some codes will be updated, then the changes notification could be added each time to the header (Figure 2).
 
-   
+ ![Figure 2](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/2.png) 
 #### Figure 2:  Showing the updated changelog of file.
 ### Pickling and unpickling codes
 Pickling and Unpickling is very practical in real world because it allows people to transfer data easily. In this simple example, several steps are taken to finish the whole process. The first step is to import pickle and declare some variables which includes a file and a list (Figure 3).
