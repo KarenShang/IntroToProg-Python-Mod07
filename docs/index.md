@@ -6,23 +6,20 @@
 ## Introduction
 Python is a very popular tool at the workplace to deal with data. However, in the real world, many types of data need to be dealt with rather than some simple plain text files, so pickling is introduced in this assignment to store more complex information. Meanwhile, error is normal to encounter when users run the code. In this assignment, an exception handing approach will also be explained step by step. 
 Create a folder and Open the downloaded file
-Open file via PyCharm. Click create new project, name it as Assignment07, and save it under _PythonClass in C: drive (Figure 1).
-
-![Figure 1](./docs/1.png "Figure 1")
-#### Figure 1: Showing the location of Assginment07.py
+Open file via PyCharm. Click create new project, name it as Assignment07, and save it under _PythonClass in C: drive 
 ## Coding
 This is the main and most important part of the whole process. The first step is to figure out what is the objectives of the script then edit the codes. This part shows the steps of updating the script header, pickling and unpickling codes, error handling codes, and demonstration of the results.
 ### Update the changelog in the header
 A header is very important for both the creators and other users. It provides some basic information about this script. For example, the title, simple description, the creator, and the created date. If some codes will be updated, then the changes notification could be added each time to the header (Figure 2).
 '''
-# ---------------------------------------------------------------------#
-# Title: Assignment07
-# Description: A simple example of pickling and error handling
-# ChangeLog:(who,when,what)
-# Zhihua Shang, 5/28/2020, Created Script
-# Zhihua Shang, 5/29/2020, update pickling and error handling codes
-# Zhihua Shang, 6/1/2020, update pickling and error handling codes
-# ---------------------------------------------------------------------#
+ ---------------------------------------------------------------------
+ Title: Assignment07
+ Description: A simple example of pickling and error handling
+ ChangeLog:(who,when,what)
+ Zhihua Shang, 5/28/2020, Created Script
+ Zhihua Shang, 5/29/2020, update pickling and error handling codes
+ Zhihua Shang, 6/1/2020, update pickling and error handling codes
+ ---------------------------------------------------------------------
 '''
 #### Figure 2:  Showing the updated changelog of file.
 ### Pickling and unpickling codes
