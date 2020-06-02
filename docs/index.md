@@ -20,7 +20,7 @@ A header is very important for both the creators and other users. It provides so
 ### Pickling and unpickling codes
 Pickling and Unpickling is very practical in real world because it allows people to transfer data easily. In this simple example, several steps are taken to finish the whole process. The first step is to import pickle and declare some variables which includes a file and a list (Figure 3).
 
- 
+![Figure 3](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/3.png)
 #### Figure 3:  Showing the codes of importing pickle and variables.
   
 The second step is to get users’ input and store the data in a list (Figure 4).
