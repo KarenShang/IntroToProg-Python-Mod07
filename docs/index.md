@@ -72,7 +72,7 @@ Beside working in PyCharm, the python file can also work in a command window. Th
 
 The same script could also be demonstrated in IDE shell. Go to start, search and click IDE. The shell window shows up. Find file and open from the Assignment07 which is under_PythonClass in C drive. Run it, and the same result will be shown (Figure 12).
 
-![Figure 12]() 
+![Figure 12](https://github.com/KarenShang/IntroToProg-Python-Mod07/blob/master/docs/12.png) 
 #### Figure 12: script running from Shell window
 
 ## Summary
